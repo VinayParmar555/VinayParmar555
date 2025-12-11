@@ -1,15 +1,66 @@
+<h1 align="center">Hi 👋 I'm Vinay.</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinay_fx___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinay Parmar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VinayParmar000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayparmar111111@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VinayParmar555&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VinayParmar555&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayParmar555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+A Passionate Backend Developer from India.
+Currently in my final year at IIT Bombay. 
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VinayParmar555&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🌱 I’m currently learning **System Design & JWT/OAuth2**
+- 🛒 I built a complete **E-commerce backend** (FastAPI + PostgreSQL + Redis)
+- 💬 Ask me about **Python, FastAPI, SQLAlchemy, PostgreSQL**
+- 📫 Reach me at: **vinayparmar111111@gmail.com**
+
+---
+
+## 🌐 Connect with me  
+<p align="left">
+  <a href="https://twitter.com/VinayParmar000" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/vinay-parmar-204479379" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/vinay_fx___" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://t.me/ryzenfinances" target="_blank">
+  <img src="https://img.icons8.com/?size=512&id=63306&format=png&color=ffffff" height="40" />
+</a>
+
+</p>
+
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,docker,git,github,vscode,aws" />
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="45" />
+<img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VinayParmar555&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinayParmar555&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayParmar555&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+
