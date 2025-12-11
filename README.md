@@ -27,9 +27,9 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://linkedin.com/in/vinay-parmar-204479379" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/vinay_fx___" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
+ <a href="https://instagram.com/vinay_fx___" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="40"/>
+</a>
   <a href="https://t.me/ryzenfinances" target="_blank">
   <img src="https://img.icons8.com/?size=512&id=63306&format=png&color=ffffff" height="40" />
 </a>
