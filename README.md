@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋 I'm Vinay.</h1>
+## 💫 About Me:
 
-<p align="center">
+Hi there 👋
+
+Nice meeting you, I'm Vinay!
+
 A Passionate Backend Developer from India.
-Currently in my final year at IIT Bombay. 
-</p>
+Currently in my final year at IIT Bombay 😄.
+
 
 ---
 
