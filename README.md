@@ -42,7 +42,7 @@ Currently in my final year at IIT Bombay 😄.
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,git,github,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,git,github,aws" />
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="45" />
 <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
 </p>
