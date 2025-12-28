@@ -24,7 +24,7 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://twitter.com/VinayParmar000" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/vinay-parmar-204479379/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinay-kumar-204479379/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="45" />
 </a>
  <a href="https://instagram.com/vinay_fx___" target="_blank">
