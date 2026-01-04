@@ -13,7 +13,7 @@ Currently in my final year at IIT Bombay 😄.
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **System Design & Redis**
-- 🛒 I built a complete **E-commerce backend (FastAPI + PostgreSQL + JWT/OAuth2)**
+- 🛒 I built a complete **E-commerce backend (FastAPI + PostgreSQL + JSON Web Tokens/OAuth2)**
 - 💬 Ask me about **Python, FastAPI, SQLAlchemy, PostgreSQL**
 - 📫 Reach me at: **vinayparmar111111@gmail.com**
 
