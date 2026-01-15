@@ -42,11 +42,14 @@ Currently in my final year at IIT Bombay 😄.
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,git,github,aws" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,git,github" />
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="45" />
 <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
 <img src="https://jwt.io/img/pic_logo.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
+     alt="Render"
+     height="40"/>
 
 </p>
 
