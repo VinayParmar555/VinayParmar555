@@ -49,7 +49,7 @@ Currently in my final year at IIT Bombay 😄.
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
      alt="Render"
-     height="40"/>
+     height="35"/>
 
 </p>
 
