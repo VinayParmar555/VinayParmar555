@@ -42,14 +42,47 @@ Currently in my final year at IIT Bombay 😄.
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,git,github" />
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="45" />
-<img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
-<img src="https://jwt.io/img/pic_logo.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
-     alt="Render"
-     height="35"/>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="40" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="40" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" width="40" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" width="40" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="40" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="https://www.postman.com/">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+  </a>
+  <a href="https://www.docker.com/">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="45" />
+  </a>
+  <a href="https://www.sqlalchemy.org/">
+  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
+  </a>
+  <a href="https://jwt.io/">
+  <img src="https://jwt.io/img/pic_logo.svg" width="40"/>
+  </a>
+  <a href="https://oauth.net/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40"/>
+  </a>
+  <a href="https://render.com/">
+  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
+       alt="Render"
+       height="35"/>
+  </a>
 
 </p>
 
