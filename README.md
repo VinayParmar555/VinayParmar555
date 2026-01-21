@@ -78,12 +78,16 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://oauth.net/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40"/>
   </a>
+  <a href="https://pytest.org/">
+  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-01-21 103349.png"
+     alt="Pytest"
+     height="45"/>
+  </a>
   <a href="https://render.com/">
   <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
        alt="Render"
        height="35"/>
   </a>
-
 </p>
 
 
