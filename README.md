@@ -88,6 +88,11 @@ Currently in my final year at IIT Bombay 😄.
        alt="Render"
        height="35"/>
   </a>
+  <a href="https://razorpay.com/">
+  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-01-29 095258.png"
+     alt="Pytest"
+     height="45"/>
+  </a>
 </p>
 
 
