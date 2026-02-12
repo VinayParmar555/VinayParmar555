@@ -64,10 +64,10 @@ Currently in my final year at IIT Bombay 😄.
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
   <a href="https://www.postman.com/">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   </a>
   <a href="https://www.docker.com/">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="40" />
   </a>
   <a href="https://www.sqlalchemy.org/">
   <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
@@ -81,12 +81,12 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://pytest.org/">
   <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-01-21 103349.png"
      alt="Pytest"
-     height="45"/>
+     height="40"/>
   </a>
   <a href="https://supabase.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
      alt="Supabase"
-     height="45"/>
+     height="40"/>
   </a>
   <a href="https://render.com/">
   <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
