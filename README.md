@@ -83,6 +83,11 @@ Currently in my final year at IIT Bombay 😄.
      alt="Pytest"
      height="45"/>
   </a>
+  <a href="https://supabase.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
+     alt="Supabase"
+     height="45"/>
+  </a>
   <a href="https://render.com/">
   <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
        alt="Render"
