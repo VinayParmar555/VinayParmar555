@@ -88,6 +88,9 @@ Currently in my final year at IIT Bombay 😄.
      alt="Supabase"
      height="40"/>
   </a>
+  <a href="https://scapy.net">
+  <img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy_logo.png" width="40" height="40"/>
+  </a>
   <a href="https://render.com/">
   <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
        alt="Render"
