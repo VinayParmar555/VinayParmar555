@@ -94,12 +94,17 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://render.com/">
   <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
        alt="Render"
-       height="35"/>
+       height="33"/>
+  </a>
+  <a href="https://wireshark.org/">
+  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-03-15 114443.png"
+     alt="Wireshark"
+     height="35"/>
   </a>
   <a href="https://razorpay.com/">
-  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-02-09 143428.png"
+  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-03-15 114928.png"
      alt="Razorpay"
-     height="35"/>
+     height="28"/>
   </a>
 </p>
 
