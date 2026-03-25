@@ -4,7 +4,7 @@ Hi there 👋
 
 Nice meeting you, I'm Vinay!
 
-A Passionate Backend Developer from India.
+A Software Developer from India.
 Currently in my final year at IIT Bombay 😄.
 
 
