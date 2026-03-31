@@ -93,10 +93,10 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://razorpay.com/">
   <img src="https://cdn.simpleicons.org/razorpay/0A66C2"
      alt="Razorpay"
-     height="28"/>
+     height="37"/>
   </a>
   <a href="https://render.com/">
-  <img src="https://cdn.simpleicons.org/render/white" alt="Render" height="30"/>
+  <img src="https://cdn.simpleicons.org/render/white" alt="Render" height="35"/>
   </a>
   <a href="https://www.sqlalchemy.org/">
   <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
