@@ -69,19 +69,18 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://www.docker.com/">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="40" />
   </a>
-  <a href="https://www.sqlalchemy.org/">
-  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
-  </a>
   <a href="https://jwt.io/">
   <img src="https://jwt.io/img/pic_logo.svg" width="40"/>
   </a>
   <a href="https://oauth.net/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40"/>
   </a>
+  <img src="https://cdn.simpleicons.org/pydantic" height="40"/>
   <a href="https://pytest.org/">
-  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-01-21 103349.png"
-     alt="Pytest"
-     height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="Pytest" height="35"/>
+  </a>
+  <a href="https://www.linux.org/">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/>
   </a>
   <a href="https://supabase.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
@@ -91,20 +90,21 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://scapy.net">
   <img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy_logo.png" width="40" height="40"/>
   </a>
+  <a href="https://razorpay.com/">
+  <img src="https://cdn.simpleicons.org/razorpay/0A66C2"
+     alt="Razorpay"
+     height="28"/>
+  </a>
   <a href="https://render.com/">
-  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/render-logo.png.png"
-       alt="Render"
-       height="33"/>
+  <img src="https://cdn.simpleicons.org/render/white" alt="Render" height="30"/>
+  </a>
+  <a href="https://www.sqlalchemy.org/">
+  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
   </a>
   <a href="https://wireshark.org/">
   <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-03-15 114443.png"
      alt="Wireshark"
      height="35"/>
-  </a>
-  <a href="https://razorpay.com/">
-  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-03-15 114928.png"
-     alt="Razorpay"
-     height="28"/>
   </a>
 </p>
 
