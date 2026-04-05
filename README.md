@@ -75,7 +75,9 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://oauth.net/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40"/>
   </a>
+  <a href="https://docs.pydantic.dev/latest/">
   <img src="https://cdn.simpleicons.org/pydantic" height="40"/>
+  </a>
   <a href="https://pytest.org/">
   <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="Pytest" height="35"/>
   </a>
