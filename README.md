@@ -54,6 +54,11 @@ Currently in my final year at IIT Bombay 😄.
   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" width="40" />
   </a>
+  <a href="https://www.mongodb.com/">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+     alt="MongoDB"
+     height="35"/>
+  </a>
   <a href="https://redis.io/">
     <img src="https://skillicons.dev/icons?i=redis" width="40" />
   </a>
@@ -102,11 +107,6 @@ Currently in my final year at IIT Bombay 😄.
   </a>
   <a href="https://www.sqlalchemy.org/">
   <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
-  </a>
-  <a href="https://wireshark.org/">
-  <img src="https://raw.githubusercontent.com/VinayParmar555/RyzenDOC/main/Screenshot 2026-03-15 114443.png"
-     alt="Wireshark"
-     height="35"/>
   </a>
 </p>
 
