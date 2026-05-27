@@ -106,7 +106,7 @@ Currently in my final year at IIT Bombay 😄.
   <img src="https://cdn.simpleicons.org/render/white" alt="Render" height="35"/>
   </a>
   <a href="https://www.sqlalchemy.org/">
-  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="35" />
+  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="30" />
   </a>
    <a href="https://www.sqlalchemy.org/">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" />
