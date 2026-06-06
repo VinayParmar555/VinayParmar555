@@ -59,7 +59,7 @@ Production-ready REST API with **JWT auth** (access + refresh rotation), **Razor
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-latest-green)
 
-Autonomous **multi-agent** pipeline (diff analysis → bug detection → style review → verdict) that posts structured code reviews as GitHub PR comments in **~15 seconds**. Semantic memory via Qdrant, Groq LLaMA-3.3-70b inference, and full LangSmith observability.
+Autonomous **multi-agent** pipeline that posts structured code reviews as GitHub PR comments in **~15 seconds**. Semantic memory via Qdrant, Groq LLaMA-3.3-70b inference, and full LangSmith observability.
 
 `LangGraph` `Qdrant` `MongoDB` `Groq` `Gemini` `Cohere`
 
