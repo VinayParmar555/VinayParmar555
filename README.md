@@ -1,41 +1,71 @@
-## 💫 About Me:
+<div align="center">
 
-Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Hey%20there,%20I%27m%20Vinay%20%F0%9F%91%8B&fontSize=32&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-Nice meeting you, I'm Vinay!
+### 🚀 AI Engineer · IIT Bombay · India
 
-A Software Developer from India.
-Currently in my final year at IIT Bombay 😄.
+*Building systems that are fast, correct, and production-ready - not just ones that work on localhost.*
 
-
----
-
-### 🚀 About Me
-
-- 🌱 I’m currently learning **System Design & Amazon Web Services**.
-- 🛒 I built a complete **E-commerce backend (FastAPI + PostgreSQL + JSON Web Tokens/OAuth2 + Docker)**.
-- 💬 Ask me about **Python, FastAPI, SQLAlchemy, PostgreSQL, Redis**.
-- 📫 Reach me at: **vinayparmar111111@gmail.com**
-
----
-
-## 🌐 Connect with me  
-<p align="left">
+<p>
   <a href="https://twitter.com/VinayParmar000" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=twitter" height="38"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/vinay-kumar-204479379/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="45" />
-</a>
- <a href="https://instagram.com/vinay_fx___" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="40"/>
-</a>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="38"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/vinay_fx___" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="38"/>
+  </a>&nbsp;
   <a href="https://t.me/ryzenfinances" target="_blank">
-  <img src="https://img.icons8.com/?size=512&id=63306&format=png&color=ffffff" height="40" />
-</a>
-
+    <img src="https://img.icons8.com/?size=512&id=63306&format=png&color=ffffff" height="38"/>
+  </a>
 </p>
 
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final year student at **IIT Bombay**
+- 🌱 Currently learning **System Design** & **Amazon Web Services**
+- 🛒 Built a production-ready **E-Commerce Backend** — FastAPI + PostgreSQL + Redis + Docker + Razorpay
+- 🤖 Built an **AI PR Review Agent** — LangGraph multi-agent system with semantic memory & full observability
+- 💬 Ask me about **Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · LangGraph**
+- 📫 Reach me at **vinayparmar111111@gmail.com**
+
+---
+
+## 🏗️ Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [E-Commerce Backend](https://github.com/VinayParmar555/E-commerce)
+
+[![CI/CD](https://github.com/VinayParmar555/E-commerce/actions/workflows/test.yml/badge.svg)](https://github.com/VinayParmar555/E-commerce/actions)
+[![codecov](https://codecov.io/gh/VinayParmar555/E-commerce/badge.svg)](https://codecov.io/gh/VinayParmar555/E-commerce)
+
+Production-ready REST API with **JWT auth** (access + refresh rotation), **Razorpay** payments with HMAC webhook verification, **Redis** caching with msgpack, role-based access control, 13 Alembic migrations, and full Docker + GitHub Actions CI/CD pipeline.
+
+`FastAPI` `PostgreSQL` `Redis` `Docker` `Razorpay` `SendGrid`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [AI PR Review Agent](https://github.com/VinayParmar555/PR_ReviewAgent)
+
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-latest-green)
+
+Autonomous **multi-agent** pipeline (diff analysis → bug detection → style review → verdict) that posts structured code reviews as GitHub PR comments in **~15 seconds**. Semantic memory via Qdrant, Groq LLaMA-3.3-70b inference, and full LangSmith observability.
+
+`LangGraph` `Qdrant` `MongoDB` `Groq` `Gemini` `Cohere`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,22 +141,18 @@ Currently in my final year at IIT Bombay 😄.
   </a>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinayParmar555&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VinayParmar555&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayParmar555&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VinayParmar555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayParmar555&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayParmar555&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
