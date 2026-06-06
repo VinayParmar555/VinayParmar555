@@ -149,10 +149,4 @@ Autonomous **multi-agent** pipeline (diff analysis → bug detection → style r
   <img src="https://streak-stats.demolab.com?user=VinayParmar555&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayParmar555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayParmar555&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
