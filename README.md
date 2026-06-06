@@ -55,9 +55,7 @@ Currently in my final year at IIT Bombay 😄.
     <img src="https://skillicons.dev/icons?i=mysql" width="40" />
   </a>
   <a href="https://www.mongodb.com/">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-     alt="MongoDB"
-     height="35"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
   </a>
   <a href="https://redis.io/">
     <img src="https://skillicons.dev/icons?i=redis" width="40" />
@@ -67,6 +65,9 @@ Currently in my final year at IIT Bombay 😄.
   </a>
   <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="https://www.linux.org/">
+  <img src="https://skillicons.dev/icons?i=linux" width="40""/>
   </a>
   <a href="https://www.postman.com/">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
@@ -85,9 +86,6 @@ Currently in my final year at IIT Bombay 😄.
   </a>
   <a href="https://pytest.org/">
   <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="Pytest" height="35"/>
-  </a>
-  <a href="https://www.linux.org/">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/>
   </a>
   <a href="https://supabase.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
