@@ -4,7 +4,7 @@
 
 ### 🚀 AI Engineer · IIT Bombay · India
 
-*Building systems that are fast, correct, and production-ready - not just ones that work on localhost.*
+*Building systems that are fast, efficient, and production-ready - not just ones that work on localhost.*
 
 <p>
   <a href="https://twitter.com/VinayParmar000" target="_blank">
