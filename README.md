@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Hey%20there,%20I%27m%20Vinay%20%F0%9F%91%8B&fontSize=32&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### 🚀 AI Engineer · IIT Bombay · India
+###  AI Engineer · IIT Bombay · India
 
 *Building systems that are fast, efficient, and production-ready - not just ones that work on localhost.*
 
