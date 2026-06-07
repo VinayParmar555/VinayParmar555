@@ -99,6 +99,9 @@ Autonomous **multi-agent** pipeline that posts structured code reviews as GitHub
   <a href="https://www.linux.org/">
   <img src="https://skillicons.dev/icons?i=linux" width="40""/>
   </a>
+  <a href="https://www.sqlalchemy.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="40" height="40" />
+  </a>
   <a href="https://www.postman.com/">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   </a>
@@ -132,9 +135,6 @@ Autonomous **multi-agent** pipeline that posts structured code reviews as GitHub
   </a>
   <a href="https://render.com/">
   <img src="https://cdn.simpleicons.org/render/white" alt="Render" height="35"/>
-  </a>
-  <a href="https://www.sqlalchemy.org/">
-  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="30" />
   </a>
    <a href="https://www.langchain.com//">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" />
