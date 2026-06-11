@@ -103,16 +103,16 @@ Autonomous **multi-agent** pipeline that posts structured code reviews as GitHub
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="40" height="40" />
   </a>
   <a href="https://www.postman.com/">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://oauth.net/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="40" />
   </a>
   <a href="https://jwt.io/">
   <img src="https://jwt.io/img/pic_logo.svg" width="40"/>
-  </a>
-  <a href="https://oauth.net/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="40"/>
   </a>
   <a href="https://docs.pydantic.dev/latest/">
   <img src="https://cdn.simpleicons.org/pydantic" height="40"/>
