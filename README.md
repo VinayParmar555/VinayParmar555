@@ -109,24 +109,22 @@ Autonomous **multi-agent** pipeline that posts structured code reviews as GitHub
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://pytest.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://supabase.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://scapy.net">
+  <img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy_logo.png" width="40" height="40"/>
   </a>
   <a href="https://jwt.io/">
   <img src="https://jwt.io/img/pic_logo.svg" width="40"/>
   </a>
   <a href="https://docs.pydantic.dev/latest/">
   <img src="https://cdn.simpleicons.org/pydantic" height="40"/>
-  </a>
-  <a href="https://pytest.org/">
-  <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="Pytest" height="35"/>
-  </a>
-  <a href="https://supabase.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
-     alt="Supabase"
-     height="40"/>
-  </a>
-  <a href="https://scapy.net">
-  <img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy_logo.png" width="40" height="40"/>
   </a>
   <a href="https://razorpay.com/">
   <img src="https://cdn.simpleicons.org/razorpay/0A66C2"
