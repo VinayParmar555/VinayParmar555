@@ -29,7 +29,7 @@
 
 - 🎓 Final year student at **IIT Bombay**
 - 🌱 Currently learning **System Design** & **Amazon Web Services**
-- 🛒 Built a production-ready **E-Commerce Backend** — FastAPI + PostgreSQL + Redis + Docker + Razorpay
+- 🛒 Built a production-ready **E-Commerce Backend** - FastAPI + PostgreSQL + Redis + Docker + Razorpay
 - 🤖 Built an **AI PR Review Agent** - LangGraph multi-agent system with semantic memory & full observability
 - 💬 Ask me about **Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · LangGraph**
 - 📫 Reach me at **vinayparmar111111@gmail.com**
